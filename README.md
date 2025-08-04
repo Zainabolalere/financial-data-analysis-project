@@ -3,6 +3,7 @@ Financial analysis project using Power BI and DAX to uncover key insights from t
 
 
 🔎Project Overview
+
 This project involved analyzing the Microsoft Power BI Financial Sample Dataset to uncover key financial trends and insights.
 It focused on creating dynamic KPIs, interactive visualizations, and deriving business conclusions using advanced DAX measures and Power BI features.
 
